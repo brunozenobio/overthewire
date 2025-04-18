@@ -18,4 +18,53 @@ user: bandit{nivel}
 29 : 4pT1t5DENaYuqnqvadYs1oE4QLCdjmJ7
 30 : qp30ex3VLz5MDG1n91YowTv4Q8l7CDZL
 31 : fb5S2xb7bRyFmAvQYQGEqsbhVyJqhnDy
-32 : 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5Kclear
+32 : 3O9RfhqyAlVBEZpVb6LYStshZoqoSx5K
+33 : tQdtbs5D5i2vJwkO8mEyYEyTL8izoeJ0
+
+NATAS
+0.
+  Username: natas0
+  Password: natas0
+  URL:      http://natas0.natas.labs.overthewire.org
+1.
+  Username: natas1
+  Password: 0nzCigAq7t2iALyvU9xcHlYN4MlkIwlq
+  URL:      http://natas1.natas.labs.overthewire.org
+2.
+  Username: natas2
+  Password: TguMNxKo1DSa1tujBLuZJnDUlCcUAPlI
+  URL:      http://natas2.natas.labs.overthewire.org
+3.
+  Username: natas3
+  Password: 3gqisGdR0pjm6tpkDKdIWO2hSvchLeYH
+  URL:      http://natas3.natas.labs.overthewire.org
+4.
+  Username: natas4
+  Password: QryZXc2e0zahULdHrtHxzyYkj59kUxLQ
+  URL:      http://natas4.natas.labs.overthewire.org
+5.
+  Username: natas5
+  Password: 0n35PkggAPm2zbEpOU802c0x0Msn1ToK
+  URL:      http://natas5.natas.labs.overthewire.org
+6.
+  Username: natas6
+  Password: 0RoJwHdSKWFTYR5WuiAewauSuNaBXned
+  URL:      http://natas6.natas.labs.overthewire.org
+7.
+  Username: natas7
+  Password: bmg8SvU1LizuWjx3y7xkNERkHxGre0GS
+  URL:      http://natas7.natas.labs.overthewire.org
+8.
+  Username: natas8
+  Password: xcoXLmzMkoIP9D7hlgPlh9XD7OgLAe5Q
+  URL:      http://natas8.natas.labs.overthewire.org
+9.
+  Username: natas9
+  Password: ZE1ck82lmdGIoErlhQgWND6j2Wzz6b6t
+  URL:      http://natas9.natas.labs.overthewire.org
+10.
+  Username: natas10
+  Password: t7I5VHvpa14sJTUGV0cbEsbYfFP2dmOu
+  URL:      http://natas10.natas.labs.overthewire.org
+
+
